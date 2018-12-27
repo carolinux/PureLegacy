@@ -1,0 +1,8 @@
+MIDlet-1: TimeMIDlet,,ClientMIDlet
+MIDlet-Jar-Size: 162995
+MIDlet-Jar-URL: MobileApplication6.car.jar
+MIDlet-Name: MobileApplication6.car
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
